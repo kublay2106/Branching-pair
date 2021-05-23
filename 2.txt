@@ -1,1 +1,2 @@
 This is second folder.
+and the third doucment is also added to it.
